@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Flask
 scikit-learn
 pandas
 matplotlib
 numpy
 
+=======
+Flask
+scikit-learn
+pandas
+matplotlib
+numpy
+
+>>>>>>> 9d79108a5fc121078479f6d28e8aed0e05aafa3f
