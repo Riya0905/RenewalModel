@@ -21,10 +21,7 @@ Push all the files to github
 3. ```git commit -m "This commit requires readme & requrement.txt"```
 4. ```git push origin main```
 =======
-# RenewalModel
-# Software and Tools Requirement
-1. [GithubAccount](https://github.com)
-2. [HerukuAccount](https://heroku.com)
-3. [VSCodeIDE](https://code.visualstudio.com/)
-4. [GitCLI]
->>>>>>> 9d79108a5fc121078479f6d28e8aed0e05aafa3f
+
+Create an app.py file and build an api (predict_api)  
+
+Templates folder with home.html file
